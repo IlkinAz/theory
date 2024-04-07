@@ -1,1 +1,1 @@
-# Teroriya Testirovaniya
+# Teoriya Testirovaniya
